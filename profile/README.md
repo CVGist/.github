@@ -37,6 +37,6 @@ Don't waste another minute struggling with outdated resume builders. Choose [CVG
 
 <a href="https://www.cvgist.com">Link to a resume builder app</a>
 
-<pre>
+<code>
 <a href="https://www.cvgist.com">Link to a resume builder app</a>
-</pre>
+</code>
