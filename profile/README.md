@@ -34,3 +34,9 @@ In 2024, leveraging AI technology for resume creation is not only smart - it's e
 
 Don't waste another minute struggling with outdated resume builders. Choose [CVGist.com](https://CVGist.com) and experience the future of resume creation today!
 
+
+<a href="https://www.cvgist.com">Link to a resume builder app</a>
+
+<pre>
+<a href="https://www.cvgist.com">Link to a resume builder app</a>
+</pre>
